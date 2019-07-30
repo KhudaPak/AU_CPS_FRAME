@@ -1,0 +1,10 @@
+output_dir: "."
+navbar:
+  left:
+    - text: "Home Page"
+      href: index.html
+    - text: "Get Started"
+      href: about.html
+output:
+  html_document:
+    css: style.css
